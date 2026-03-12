@@ -1,0 +1,17 @@
+# Build
+build/
+server
+
+# Logs - generated at runtime, not part of source
+server.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
